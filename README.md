@@ -9,7 +9,9 @@ The project follows a structured analytics methodology, starting from raw custom
 ## 📊 Power BI Dashboard
 
 The final Power BI dashboard provides an interactive overview of customer shopping behavior, including customer count, average purchase amount, review ratings, subscription status, sales, revenue, product categories, and age groups.
-<img width="1475" height="806" alt="{440DEB30-28B8-4E10-8177-3A2426723391}" src="https://github.com/user-attachments/assets/92efc746-eba9-4d55-a542-e8e0314902b6" />
+
+<img width="1481" height="800" alt="image" src="https://github.com/user-attachments/assets/b8e7b162-dfc0-43e1-b0c7-4e8a22de6ddc" />
+
 
 
 ---
